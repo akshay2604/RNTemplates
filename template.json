@@ -2,7 +2,7 @@
   "email-password": {
     "description": "Email Password Login",
     "version": "",
-    "path": "auth/login/email-password",
+    "path": "auth/login/email-password.js",
     "tags": ""
   }
 }
