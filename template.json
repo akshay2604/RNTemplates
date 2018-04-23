@@ -7,7 +7,13 @@
   },
   "editorconfig": {
     "description": "Add a standard editorconfig",
-    "version": "0.0.1",
-    "path": "projectSetup/editorconfig"
+    "version": "",
+    "path": "projectSetup/editorconfig",
+    "postDownload": ""
+  },
+  "eslint": {
+    "description": "Add a standard eslint configuration",
+    "version": "",
+    "path": "projectSetup/eslint"
   }
 }
